@@ -27,3 +27,9 @@ VALUES
 ('Jhon Doe', '123 Eln Street', '555-1234', 'a@b.com', 'V001'),
 ('Jane Smith', '456 Oak Avenue', '555-5678', 'a@b2.com', 'V002'),
 ('Alice Johnson', '789 Pine Road', '555-9012', 'a@b3.com', 'V003'),
+
+INSERT INTO posudba (datum_posudbe, datum_povrata, film_id, clan_id, cjenik_id, medij_id)
+VALUES
+('2024-09-06', DATE_SUB(NOW(), INTERVAL 2 DAY), 1, 2, 1, 1),
+(DATE_SUB(NOW()), DATE_SUB(NOW(), INTERVAL 2 DAY), 1, 2, 1, 1),
+('2024-09-06', DATE_SUB(NOW(), INTERVAL 2 DAY), 1, 2, 1, 1),

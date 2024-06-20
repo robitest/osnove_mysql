@@ -1,4 +1,4 @@
 ## Osnove MySQL
-#### Zadaca MySQL - stvaranje baze i tablica 
+#### Zadaca MySQL - Select operacije 
 
-- Primjer SQL koda zadace mozete pronaći na [ovoj](https://github.com/robitest/osnove_mysql/blob/master/videoteka.sql) poveznici.
+- Primjer SQL koda zadace mozete pronaći na [ovoj](https://github.com/robitest/osnove_mysql/blob/master/zadaca/zadaca_knjiznica.sql) poveznici.

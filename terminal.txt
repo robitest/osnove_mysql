@@ -1,0 +1,11 @@
+mysql -u algebra -p < videoteka.sql
+
+
+SELECT * FROM filmovi;
+
+SELECT naslov FROM filmovi;
+
+SELECT id, naslov FROM filmovi;
+
+
+
